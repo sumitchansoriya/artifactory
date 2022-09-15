@@ -15,12 +15,12 @@
     <repository>
         <id>central</id>
         <name>maven-central</name>
-        <url>http://localhost:8110/repository/maven-central/</url>
+        <url>http://localhost:8110/repository/maven-central</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>maven-snapshots</name>
-        <url>http://localhost:8110/repository/maven-snapshots/</url>
+        <url>http://localhost:8110/repository/maven-snapshots</url>
     </snapshotRepository>
   </distributionManagement>
 

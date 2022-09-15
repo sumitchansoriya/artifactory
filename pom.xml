@@ -14,13 +14,13 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>a0rpfcy41g1qy-artifactory-primary-0-releases</name>
-        <url>https://artifactmanager.jfrog.io/artifactory/team-mvn-release-local</url>
+        <name>maven-central</name>
+        <url>http://localhost:8110/repository/maven-central/</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>a0rpfcy41g1qy-artifactory-primary-0-snapshots</name>
-        <url>https://artifactmanager.jfrog.io/artifactory/team-mvn-release-local</url>
+        <name>maven-snapshots</name>
+        <url>http://localhost:8110/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
